@@ -1,7 +1,7 @@
 import logo from "../../Asset/Logo/Logo-Full-Light.png";
 // import logo from "../../Asset/Logo/study-master.png";
 
-import { NavbarLinks } from "../../Data/Navbar-Link";
+import { NavbarLinks } from "../../data/Navbar-Link";
 import { logout } from "../../Service/Operation/authAPI";
 import { apiConnector } from "../../Service/apiConnector";
 import { categories } from "../../Service/apis";
